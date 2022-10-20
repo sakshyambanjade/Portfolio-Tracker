@@ -1,7 +1,6 @@
 # Stock App Project
+![under-construction-sign-9939879](https://user-images.githubusercontent.com/107551372/196942438-951843b9-bd3d-4353-b153-6996c9f100e1.jpg)
 
-
                                                             
-                                                            
-                                                            
-![images](https://user-images.githubusercontent.com/107551372/196942098-d1f70a32-098f-4a12-bf15-594ad0a5f1eb.jpg)
+                                        
+                                          
